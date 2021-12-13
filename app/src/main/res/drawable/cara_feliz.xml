@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="256dp"
+        android:height="256dp"
+        android:viewportWidth="100"
+        android:viewportHeight="100"
+    android:name="cara_feliz">
+    <path
+        android:pathData="M 50,50 m -48,0 a 48,48 0 1,0 96,0 a 48,48 0 1,0 -96,0"
+        android:fillColor="#FFEB3B"/>
+    <path
+        android:pathData="M 35,40 m -7,0 a 7,7 0 1,0 14,0 a 7,7 0 1,0 -14,0"
+        android:fillColor="#F44336"/>
+    <path
+        android:pathData="M 65,40 m -7,0 a 7,7 0 1,0 14,0 a 7,7 0 1,0 -14,0"
+        android:fillColor="#F44336"/>
+    <path
+        android:name="labios"
+        android:pathData="M 30,65 Q 50,85 70,65"
+        android:strokeColor="@color/black"
+        android:strokeWidth="3"/>
+
+</vector>
